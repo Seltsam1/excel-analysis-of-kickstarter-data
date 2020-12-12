@@ -49,6 +49,18 @@ Pivot table showing count of outcome(status) by month with years and category fi
 Pivot chart (line) showing count of outcome by month 
 
 
+--------------------
+
+Sheet – Bonus
+
+Column B through D – formula with countifs to determine if campaigns within certain goal parameters based on status (B – Successful, C – Failed, D – Canceled)
+
+Column E – total of values from columns B through D
+
+Column F through H – formula for percentage outcome based on goal (F – successful, G – failed, H – canceled)
+
+Line chart of percentage of outcome by goal amount
+
 
 
 --------------------
