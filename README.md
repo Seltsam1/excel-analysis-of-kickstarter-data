@@ -18,6 +18,11 @@ Column Q includes Category – formula to extract category from column N (left)
 
 Column R includes Sub-Category – formula to extract sub category from column N (right)
 
+Column S includes Date Created Conversion – formula to convert timestamp in column J to excel format
+
+Column T includes Date Ended Conversion – formula to convert timestamp in column I to excel format
+
+
 --------------------
 
 Sheet – Category
@@ -33,3 +38,19 @@ Sheet – Sub_Category
 Pivot table showing count of outcome(status) by sub-category
 
 Pivot chart (stacked column) showing count of outcome by sub-category with country and category filters
+
+
+--------------------
+
+Sheet – Date_Conversion
+
+Pivot table showing count of outcome(status) by month with years and category filters
+
+Pivot chart (line) showing count of outcome by month 
+
+
+
+
+--------------------
+
+Word Document includes insights
