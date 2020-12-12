@@ -62,6 +62,20 @@ Column F through H – formula for percentage outcome based on goal (F – succe
 Line chart of percentage of outcome by goal amount
 
 
+--------------------
+
+Sheet – Statistics
+
+Columns A and B – filtered from data sheet of backers count based on successful status
+
+Columns D and E – filtered from data sheet of backers count based on failed status
+
+Columns G through I – Descriptive stats of backers based on successful (H) and failed (I) status
+
+Column k – discussion of findings
+
+Box plots included as part of discussion
+
 
 --------------------
 
